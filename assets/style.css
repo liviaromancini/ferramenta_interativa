@@ -10,7 +10,7 @@ body {
 }
 
 
-#container {
+#container { 
     display:flex ;
     flex-wrap: wrap;/* quebra de linha automática*/
     justify-content: space-between; /justificar o conteúdo/
